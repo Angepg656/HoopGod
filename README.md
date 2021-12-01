@@ -4,12 +4,11 @@ I am also a big Hoopgod Lover
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Other Streamers
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We also would like to show love to othe streamers but theyre just not as good as Mr.Hoopgod
 
-```markdown
-Syntax highlighted code block
+
 
 # Header 1
 ## Header 2
